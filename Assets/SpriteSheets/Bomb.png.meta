@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 1fc233ce093f440469aae179a6417bf0
+timeCreated: 1452816618
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bomb_0
+    21300002: Bomb_1
+    21300004: Bomb_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bomb_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 64}
+        - {x: -60, y: 46}
+        - {x: -60, y: -64}
+        - {x: 24, y: -64}
+        - {x: 60, y: -52}
+        - {x: 60, y: 63}
+        - {x: 59, y: 64}
+    - name: Bomb_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 64}
+        - {x: -60, y: 46}
+        - {x: -60, y: -64}
+        - {x: 24, y: -64}
+        - {x: 60, y: -52}
+        - {x: 60, y: 63}
+        - {x: 59, y: 64}
+    - name: Bomb_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 96
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 64}
+        - {x: -60, y: 46}
+        - {x: -60, y: -64}
+        - {x: 24, y: -64}
+        - {x: 60, y: -52}
+        - {x: 60, y: 63}
+        - {x: 59, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
